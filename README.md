@@ -25,32 +25,32 @@ Features: Real-time stock/crypto updates, animated market trends, and luxury spe
 
 Step 1: Define Features
 Before coding, outline the key features:
-✅ Stock & Crypto Price Tracking – Real-time market data
-✅ Aesthetic Pink UI – Pastel, glitter effects, and luxury-themed icons
-✅ Watchlist & Portfolio Tracker – Save favorite stocks & crypto assets
-✅ Interactive Charts – Display stock trends using stylish graphs
-✅ News Integration – Show the latest financial news
-✅ User Authentication – Save user preferences
+* ✅ Stock & Crypto Price Tracking – Real-time market data
+* ✅ Aesthetic Pink UI – Pastel, glitter effects, and luxury-themed icons
+* ✅ Watchlist & Portfolio Tracker – Save favorite stocks & crypto assets
+* ✅ Interactive Charts – Display stock trends using stylish graphs
+* ✅ News Integration – Show the latest financial news
+* ✅ User Authentication – Save user preferences
 
 Step 2: Choose Your Tech Stack
-Frontend: React.js (with Tailwind CSS for glam styling)
-Backend: Node.js with Express.js
-Database: PostgreSQL or Firebase (to store user preferences)
-API Integration: Alpha Vantage API, CoinGecko API (for real-time stock & crypto prices)
-Charts & Visuals: Chart.js or D3.js (for stylish interactive graphs)
-Authentication: Firebase Auth or Auth0 (for user login)
+* Frontend: React.js (with Tailwind CSS for glam styling)
+* Backend: Node.js with Express.js
+* Database: PostgreSQL or Firebase (to store user preferences)
+* API Integration: Alpha Vantage API, CoinGecko API (for real-time stock & crypto prices)
+* Charts & Visuals: Chart.js or D3.js (for stylish interactive graphs)
+* Authentication: Firebase Auth or Auth0 (for user login)
 
 Step 3: Set Up Your Project
 
 Step 4: Run the App & Final Touches
 
 Step 5: Make it Extra Girly & Aesthetic
-💖 Use shiny, pastel gradients in Tailwind.
-🎀 Add heart animations when stock prices increase.
-💎 Use diamond & luxury icons for stocks and cryptos.
-✨ Create a "Dream Investment Goals" section with a pink piggy bank animation.
+* 💖 Use shiny, pastel gradients in Tailwind.
+* 🎀 Add heart animations when stock prices increase.
+* 💎 Use diamond & luxury icons for stocks and cryptos.
+* ✨ Create a "Dream Investment Goals" section with a pink piggy bank animation.
 
 Next Steps
-🚀 Deploy: Use Vercel for frontend, and Render/Heroku for backend.
-📊 Expand Features: Add historical stock charts using Chart.js.
-👩‍💻 User Profiles: Save watchlists & theme preferences in Firebase.
+* 🚀 Deploy: Use Vercel for frontend, and Render/Heroku for backend.
+* 📊 Expand Features: Add historical stock charts using Chart.js.
+* 👩‍💻 User Profiles: Save watchlists & theme preferences in Firebase.
