@@ -1,6 +1,4 @@
-# This file contains tidbits of information that I've learned along the way while building this project
-It's sort of like a glossary and reference document
-Some of the concepts might be new and others are things I previously learned
+## Things I learned or wanted to write down as a reminder while working on this project
 
 #### What is a codespace? 
 A codespace is a development environment that's hosted in the cloud.
@@ -12,3 +10,7 @@ CPU: Is a super-talented mathematician
 Memory: The scratchpad the CPU uses to work out the math
 Disk: The filing cabinet. Very slow compared to memory. Holds all the math problem worksheets and answer sheets.
 GPU: It's a calculator that is good at performing a gigantic amount of simple-ish calculations all at once.
+
+#### What is React?
+"React is a Javascript Library that was created by Facebook for building better User Interface(UI) web applications and mobile applications. It is an open-source library for creating interactive and dynamic applications."
+ (https://www.geeksforgeeks.org/build-a-basic-react-app-that-display-hello-world/)
