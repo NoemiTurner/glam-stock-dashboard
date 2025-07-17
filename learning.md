@@ -7,8 +7,8 @@ https://docs.github.com/en/codespaces/overview
 
 #### I liked these analogies (Shout out to Reddit posts for explaining tech in an easy-to-understand type of way)
 CPU: Is a super-talented mathematician
-Memory: The scratchpad the CPU uses to work out the math
-Disk: The filing cabinet. Very slow compared to memory. Holds all the math problem worksheets and answer sheets.
+Memory: The scratchpad the CPU uses to work out the math  
+Disk: The filing cabinet. Very slow compared to memory. Holds all the math problem worksheets and answer sheets.  
 GPU: It's a calculator that is good at performing a gigantic amount of simple-ish calculations all at once.
 
 #### What is React?
