@@ -16,7 +16,7 @@ One of the several personal projects that ChatGPT listed was:
 #### The language learning model generated the following answer: 
 > ##### *Of course! Here are some fun, pink and girly full-stack project ideas with a cute, aesthetic, and feminine twist! 💖✨*
 
-> 💎 Glam Stock Market & Crypto Dashboard 
+> 💎 Glam Stock Market & Crypto Dashboard  
 Tech Stack: React, Chart.js, Node.js, Alpha Vantage API  
 Make it Girly: A chic pink dashboard with gemstone-style icons for stocks & crypto tracking.  
 Features: Real-time stock/crypto updates, animated market trends, and luxury spending goals.  
