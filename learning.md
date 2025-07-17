@@ -14,3 +14,13 @@ GPU: It's a calculator that is good at performing a gigantic amount of simple-is
 #### What is React?
 "React is a Javascript Library that was created by Facebook for building better User Interface(UI) web applications and mobile applications. It is an open-source library for creating interactive and dynamic applications."
  (https://www.geeksforgeeks.org/build-a-basic-react-app-that-display-hello-world/)
+
+### Installing Node.js on Linux for Ubuntu / Debian-based distributions:  
+1. Update your package index: sudo apt update
+2. Install Node.js and npm: sudo apt install nodejs npm
+   You can use the default package manager, but it often includes an outdated version
+3. Check versions  
+   node -v
+   npm -v
+
+   
